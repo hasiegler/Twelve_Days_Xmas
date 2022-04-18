@@ -129,7 +129,7 @@ make_phrase(num = 10,
 
     ## [1] "ten  lords a-leaping "
 
-### Test Your Function
+### Test the Function
 
 Test the function out on the `xmas` data, by making a new variable
 containing the daily phrases.
